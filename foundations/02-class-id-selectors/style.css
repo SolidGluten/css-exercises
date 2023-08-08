@@ -1,0 +1,22 @@
+.light-red-bg {
+    background-color: rgb(252, 171, 178);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.cooler-class {
+    font-size: 24px;
+}
+
+#numero-two {
+    color: blue;
+    font-size: 36px;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+
+}
+
+#numero-four {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
